@@ -34,7 +34,7 @@ function App() {
           <div class="firstHalf">
             <h1 class="text-big">Fotos con carrousel</h1>
             <p class="text-small">
-              Agregar aca boton de WhatsApp "Pedir Turno"
+            <input type="button" value="Pedir Turno"></input>
             </p>
           </div>
         </div>
